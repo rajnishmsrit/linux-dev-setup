@@ -1,6 +1,3 @@
-# Include bashrc
-source ~/.bashrc
-
 #Include composer to $PATH
 export PATH="$HOME/.composer/vendor/bin:$PATH"
 #Include yarn to $PATH
